@@ -26,7 +26,6 @@
 #ifndef NOISEPP_H
 #define NOISEPP_h
 
-#include "NoisePlusPlusPrivatePCH.h"
 #include "NoiseStdHeaders.h"
 #include "NoiseExceptions.h"
 #include "NoiseMath.h"
